@@ -1,4 +1,6 @@
 # Garbage files
 .DS_Store
 node_modules
-
+public/css/
+public/index.html
+public/page-404.html
