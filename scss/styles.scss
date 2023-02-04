@@ -6,13 +6,5 @@
 @import '_vars';
 
 
-
 // Common styles and sections ---------------------------------
-
-@import '_common';
-
-@import '_header';
-@import '_footer';
-
-@import '_sections';
-@import '_decoration';
+@import '_common.scss';
