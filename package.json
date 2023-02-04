@@ -1,0 +1,31 @@
+{
+  "name": "niftsy-landing",
+  "version": "3.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "NODE_ENV=production gulp",
+    "dev": "gulp"
+  },
+  "author": "Envelop",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "latest",
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-plumber": "^1.2.1",
+    "gulp-pug": "latest",
+    "gulp-rename": "latest",
+    "gulp-sass": "latest",
+    "gulp-sourcemaps": "latest",
+    "node-sass": "latest",
+    "postcss": "^8.4.21",
+    "sass": "latest"
+  },
+  "dependencies": {
+    "bootstrap": "latest",
+    "gulp-concat": "latest",
+    "gulp-data": "latest",
+    "gulp-fs": "latest",
+    "gulp-wait": "latest"
+  }
+}

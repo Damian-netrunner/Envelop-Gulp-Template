@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Acherus Feral';
+    src: url('../fonts/AcherusFeral-Bold.eot');
+    src: url('../fonts/AcherusFeral-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AcherusFeral-Bold.woff2') format('woff2'),
+        url('../fonts/AcherusFeral-Bold.woff') format('woff'),
+        url('../fonts/AcherusFeral-Bold.ttf') format('truetype'),
+        url('../fonts/AcherusFeral-Bold.svg#AcherusFeral-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acherus Feral';
+    src: url('../fonts/AcherusFeral-Light.eot');
+    src: url('../fonts/AcherusFeral-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AcherusFeral-Light.woff2') format('woff2'),
+        url('../fonts/AcherusFeral-Light.woff') format('woff'),
+        url('../fonts/AcherusFeral-Light.ttf') format('truetype'),
+        url('../fonts/AcherusFeral-Light.svg#AcherusFeral-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
